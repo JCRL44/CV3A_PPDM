@@ -1,0 +1,28 @@
+^C:\CYGWIN64\HOME\JCRL4\CODEAPPS\MY_APP\MY_FIRTS_APP\MY_FIRT_APP\BUILD\WINDOWS\CMAKEFILES\7096E951131763A96882D1E6C45692AD\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=D:\Dev\flutter PROJECT_DIR=C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app FLUTTER_ROOT=D:\Dev\flutter FLUTTER_EPHEMERAL_DIR=C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\windows\flutter\ephemeral PROJECT_DIR=C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app FLUTTER_TARGET=C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC8xYWM2MTFjNjRlYWRiZDkzYzVmNWFiYTU0OTRiOGZjM2IzNWVlOTUyLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\.dart_tool\package_config.json D:/Dev/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\CYGWIN64\HOME\JCRL4\CODEAPPS\MY_APP\MY_FIRTS_APP\MY_FIRT_APP\BUILD\WINDOWS\CMAKEFILES\71EBBB02CC4EEC2885CDD0B255397554\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\CYGWIN64\HOME\JCRL4\CODEAPPS\MY_APP\MY_FIRTS_APP\MY_FIRT_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/windows -BC:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows --check-stamp-file C:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+C:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows/CMakeFiles/INSTALL.dir
+C:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows/runner/CMakeFiles/my_firt_app.dir
+C:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows/runner/CMakeFiles/ALL_BUILD.dir

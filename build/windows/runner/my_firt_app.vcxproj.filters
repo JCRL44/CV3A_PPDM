@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AB3BCD5E-B811-39CC-8120-19B378170A54}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

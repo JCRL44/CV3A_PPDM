@@ -1,0 +1,10 @@
+^C:\CYGWIN64\HOME\JCRL4\CODEAPPS\MY_APP\MY_FIRTS_APP\MY_FIRT_APP\WINDOWS\RUNNER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/windows -BC:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows --check-stamp-file C:/cygwin64/home/jcrl4/CodeApps/my_app/my_firts_app/my_firt_app/build/windows/runner/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

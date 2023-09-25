@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\build\windows\CMakeFiles\21bd024645727e60f51f9a4e65ab56c0\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B51EE431-E81E-32D0-8003-B5AB5FCF01E4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

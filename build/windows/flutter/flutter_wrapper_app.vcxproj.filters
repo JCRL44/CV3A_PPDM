@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\cygwin64\home\jcrl4\CodeApps\my_app\my_firts_app\my_firt_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B51EE431-E81E-32D0-8003-B5AB5FCF01E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AB3BCD5E-B811-39CC-8120-19B378170A54}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
