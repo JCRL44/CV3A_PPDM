@@ -1,4 +1,4 @@
-#Sat Sep 30 15:15:11 CST 2023
+#Tue Oct 10 23:21:31 CST 2023
 base.0=C\:\\cygwin64\\home\\jcrl4\\CodeApps\\my_app\\my_firts_app\\my_firt_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

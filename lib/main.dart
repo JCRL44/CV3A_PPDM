@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:my_firt_app/Clase230923/ejemploFuture.dart';
 import 'package:my_firt_app/Clase230930/mascota_screen.dart';
+import 'package:my_firt_app/Clase231007/Examen_screen.dart';
+import 'package:my_firt_app/src/screen/contactos_screen.dart';
+import 'package:my_firt_app/src/screen/productos_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: const MascotaScreen(),
+      home: ExamenScreen(),
       theme: ThemeData(useMaterial3: true),
     );
   }
